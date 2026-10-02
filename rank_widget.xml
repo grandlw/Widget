@@ -1,0 +1,7 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:padding="16dp" android:gravity="center_vertical" android:background="@drawable/widget_bg">
+<TextView android:id="@+id/player" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="grandl#wave" android:textColor="#FFFFFF" android:textStyle="bold" android:textSize="17sp"/>
+<TextView android:id="@+id/solo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:text="Solo/Duo: Yükleniyor…" android:textColor="#F0C75E" android:textStyle="bold" android:textSize="16sp"/>
+<TextView android:id="@+id/record" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="3dp" android:text="W/L • WR" android:textColor="#D9DCE3" android:textSize="13sp"/>
+<TextView android:id="@+id/flex" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="7dp" android:text="Flex: Yükleniyor…" android:textColor="#B8BDC8" android:textSize="13sp"/>
+<TextView android:id="@+id/updated" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="7dp" android:text="Güncelleniyor…" android:textColor="#7F8794" android:textSize="10sp"/>
+</LinearLayout>
